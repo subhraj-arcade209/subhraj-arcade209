@@ -61,7 +61,9 @@
 
 ###
 
-![snake gif](https://github.com/subhraj-arcade209/subhraj-arcade209/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/subhraj-arcade209/subhraj-arcade209/output/snake.svg" alt="Snake animation" />
 
 ###
 
