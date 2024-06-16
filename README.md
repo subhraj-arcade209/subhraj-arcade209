@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">My academic journey led me to the University of Engineering and Management, Kolkata, where I obtained my B.Tech degree in Electronics and Communication Engineering (ECE).</h5>
+<h5 align="left">My academic journey led me to the University of Engineering and Management, Kolkata, where I obtained my B.Tech degree in Electronics and Communication Engineering (ECE).Currently working as a DBA in TCS Kolkata.</h5>
 
 ###
 
